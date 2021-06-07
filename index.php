@@ -14,6 +14,10 @@
   echo "<br>";
   echo "Age : " . $age . PHP_EOL;
   ?>
+
+  <form action="">
+    <input type="submit">
+  </form>
 </body>
 </html>
 
